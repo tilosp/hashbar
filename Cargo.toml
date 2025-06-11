@@ -1,6 +1,11 @@
 [package]
 name = "hashbar"
-version = "0.1.0"
+version = "1.0.0"
 edition = "2024"
+license = "MIT"
+documentation = "https://docs.rs/minbft/latest/minbft/"
+repository = "https://github.com/abcperf/minbft"
+description = "Hash trait for hashing using the `digest` crate"
 
 [dependencies]
+digest = "0.10.7"
