@@ -1,7 +1,7 @@
 [package]
 name = "hashbar"
-version = "1.0.1"
-edition = "2024"
+version = "1.0.2"
+edition = "2021"
 license = "MIT"
 documentation = "https://docs.rs/hashbar/latest/hashbar/"
 repository = "https://github.com/tilosp/hashbar"
