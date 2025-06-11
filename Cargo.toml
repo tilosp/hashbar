@@ -1,10 +1,10 @@
 [package]
 name = "hashbar"
-version = "1.0.0"
+version = "1.0.1"
 edition = "2024"
 license = "MIT"
-documentation = "https://docs.rs/minbft/latest/minbft/"
-repository = "https://github.com/abcperf/minbft"
+documentation = "https://docs.rs/hashbar/latest/hashbar/"
+repository = "https://github.com/tilosp/hashbar"
 description = "Hash trait for hashing using the `digest` crate"
 
 [dependencies]
